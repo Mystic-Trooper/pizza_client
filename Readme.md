@@ -1,0 +1,1 @@
+  "proxy": "https://pizzaappbackend.herokuapp.com/"
